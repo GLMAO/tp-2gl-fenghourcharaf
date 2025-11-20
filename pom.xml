@@ -14,8 +14,8 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
 =======
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
 >>>>>>> e6f6653991ffce44a3bc063740ee3ccd63240189
     </properties>
 
@@ -40,9 +40,9 @@
                     <target>17</target>
                     <release>17</release>
 =======
-                    <source>21</source>
-                    <target>21</target>
-                    <release>21</release>
+                    <source>17</source>
+                    <target>17</target>
+                    <release>17</release>
 >>>>>>> e6f6653991ffce44a3bc063740ee3ccd63240189
                 </configuration>
             </plugin>
