@@ -21,6 +21,9 @@ public class CoursBuilder {
         return this;
     }
     
+    
+
+
     public CoursBuilder setSalle(String salle) {
         this.salle = salle;
         return this;
