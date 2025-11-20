@@ -7,6 +7,7 @@ public abstract class CoursDecorator implements ICours {
         this.coursDecorated = cours;
     }
     
+<<<<<<< HEAD
     @Override
     public String getDescription() {
         return coursDecorated.getDescription();
@@ -16,4 +17,7 @@ public abstract class CoursDecorator implements ICours {
     public double getDuree() {
         return coursDecorated.getDuree();
     }
+=======
+    // TODO: Forcer l'implémentation des méthodes de ICours
+>>>>>>> e6f6653991ffce44a3bc063740ee3ccd63240189
 }
